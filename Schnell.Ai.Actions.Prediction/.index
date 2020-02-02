@@ -1,0 +1,9 @@
+{
+    "Author": "schnell.technology - Patrick Schnell",
+    "Copyright": "2020 schnell.technology - All rights reserved",
+    "License": "https://github.com/schnell-technology/schnell.ai-actions/blob/master/LICENSE",
+    "Versions": [{
+        "Version": "0.9.1",
+        "PackageUrl": "https://repo.schnell.ai/Schnell.Ai.Actions.Prediction_0.9.1.zip"
+    }]
+}
